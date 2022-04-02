@@ -12,6 +12,8 @@ body {
 header {
     display: flex;
     justify-content: space-between;
+    background-color: rgba(182, 204, 210, 0.1);
+    margin-bottom: 20px;
 }
 
 h1 {
